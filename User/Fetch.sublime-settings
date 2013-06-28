@@ -1,0 +1,12 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"jquery-develop": "http://code.jquery.com/jquery-1.10.1.js",
+		"normalize": "http://necolas.github.io/normalize.css/2.1.2/normalize.css"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"caret_style": "wide",
+	"color_scheme": "Packages/Dayle Rees Color Schemes/Contrast/Darkside.tmTheme",
+	"file_exclude_patterns":
+	[
+		".tags_sorted_by_file",
+		".tags",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"ignored_packages":
+	[
+		".DS_Store"
+	],
+	"phoenix_color_red": true,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_dirty_bottom_bar_blue": true,
+	"phoenix_eighties": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_solid_current_tab": true,
+	"phoenix_tabs_medium": true,
+	"show_full_path": true,
+	"theme": "Phoenix Dark.sublime-theme",
+	"vintage_start_in_command_mode": true
+}
