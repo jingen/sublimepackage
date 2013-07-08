@@ -29,18 +29,17 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#13bcaf</string>
+				<string>#303333</string>
+				<key>selection</key>
+				<string>#303333</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
+				<key>selectionBorder</key>
+				<string>#222218</string>
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
-
-				<key>selection</key>
-				<string>#253B76</string>
-				<key>selectionBorder</key>
-				<string>#A1A1FF</string>
 
 				<key>bracketsForeground</key>
 				<string>#F8F8F2A5</string>
@@ -56,23 +55,6 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<string>stippled_underline</string>
 			</dict>
 		</dict>
-
-		<dict>
-			<key>name</key>
-			<string>Embedded Source</string>
-			<key>scope</key>
-			<string>text source, string.unquoted.heredoc, source source</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#11160a</string>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string></string>
-			</dict>
-		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Comment</string>

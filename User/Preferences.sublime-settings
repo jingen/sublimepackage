@@ -1,6 +1,6 @@
 {
 	"caret_style": "wide",
-	"color_scheme": "Packages/Dayle Rees Color Schemes/Contrast/Darkside.tmTheme",
+	"color_scheme": "Packages/MyColorTheme/Monokai_Jingen.tmTheme",
 	"file_exclude_patterns":
 	[
 		".tags_sorted_by_file",
@@ -34,6 +34,7 @@
 	],
 	"ignored_packages":
 	[
+		".git",
 		".DS_Store"
 	],
 	"phoenix_color_red": true,
